@@ -9,7 +9,7 @@ from PIL import Image
 from openai import OpenAI
 import pymupdf
 
-DEFAULT_OUTPUT_DIR = "markdown_output"
+DEFAULT_OUTPUT_DIR = "resource/markdown_output"
 DEFAULT_MODEL = "google/gemma-4-e2b"
 DEFAULT_API_URL = "http://localhost:1234/v1"
 
